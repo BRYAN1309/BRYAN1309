@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Bryan Thanaya:
-🚀 About Me<br>🎓 Currently pursuing a Bachelor of Computer Science (BINUS University)<br>💡 Passionate about full stack development, backend engineering, AI integration, and scalable web systems<br>🧩 Experienced in Fullstack Development, REST API design, database modeling, and system architecture<br>🌱 Continuously learning Go, Java, Javascript, Python TypeScript, and Design Pattern<br>🌐 Portfolio: bryanthanaya.vercel.app
+🚀 About Me<br>🎓 Currently pursuing a Bachelor of Computer Science (BINUS University)<br>💡 Passionate about full stack development, backend engineering, AI integration, and scalable web systems<br>🧩 Experienced in Fullstack Development, REST API design, database modeling, and system architecture<br>🌱 Continuously learning Go, Java, Javascript, Python, TypeScript, and Design Pattern<br>🌐 Portfolio: bryanthanaya.vercel.app
 
 
 ## 🌐 Socials:
